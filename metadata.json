@@ -1,0 +1,8 @@
+{
+  "name": "TaskFlow - Modern Task Management Application",
+  "description": "A beginner-friendly, modern full-stack task management application featuring JWT authentication, task analytics, priority filtering, and real-time dashboard updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
